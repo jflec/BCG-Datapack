@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        " B ",
+        "GBG"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:copper_ingot"
+        },
+        "B": {
+            "tag": "minecraft:stone_crafting_materials"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "automobility:automobile_assembler",
+        "count": 1
+    }
+}

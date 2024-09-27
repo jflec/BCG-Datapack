@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GCG",
+        "LHL",
+		"I I"
+    ],
+    "key": {
+        "I": {
+            "item": "mythicmetals:steel_ingot"
+        },
+        "G": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "C": {
+            "item": "createaddition:electrum_ingot"
+        },
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "H": {
+            "item": "mythicmetals:steel_helmet"
+        }
+    },
+    "result": {
+        "item": "cobblemon:exp_share"
+    }
+}

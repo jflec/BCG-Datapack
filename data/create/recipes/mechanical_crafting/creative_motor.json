@@ -1,0 +1,38 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "U": {
+      "item": "mythicmetals:unobtainium"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "W": {
+      "item": "create:water_wheel"
+    },
+    "H": {
+      "item": "create:hand_crank"
+    },
+    "E": {
+      "item": "createaddition:electric_motor"
+    },
+    "S": {
+      "item": "create:steam_engine"
+    }
+  },
+  "pattern": [
+    " NUN ",
+    "NUHUN",
+    "UWREU",
+    "NUSUN",
+    " NUN "
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:creative_motor"
+  }
+}

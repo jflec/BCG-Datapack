@@ -1,0 +1,16 @@
+{
+    "type": "automobility:auto_mechanic_table",
+    "category": "automobility:engines",
+    "sortnum": 5,
+    "ingredients": [
+        {"item": "minecraft:netherite_ingot"},
+        {"tag": "alloy_forgery:tier_three_forge"},
+        {"item": "mythicmetals:morkite_block"},
+        {"item": "minecraft:obsidian"},
+        {"item": "mythicmetals:durasteel_block"}
+    ],
+    "result": {
+        "item": "automobility:automobile_engine",
+        "component": "automobility:creative"
+    }
+}

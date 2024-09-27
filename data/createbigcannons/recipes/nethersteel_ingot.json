@@ -1,0 +1,17 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "createbigcannons:cast_iron_ingot",
+      "count": 8
+    }
+  ],
+  "output": {
+    "id": "createbigcannons:nethersteel_ingot"
+  },
+  "min_forge_tier": 3,
+  "fuel_per_tick": 10
+}

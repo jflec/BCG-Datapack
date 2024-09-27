@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p p",
+    "i i",
+    "iei"
+  ],
+  "key": {
+    "e": {
+      "tag": "c:ender_pearls"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "p": {
+      "item": "things:gleaming_powder"
+    }
+  },
+  "result": {
+    "item": "things:item_magnet"
+  }
+}

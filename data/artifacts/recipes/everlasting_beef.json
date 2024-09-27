@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cow_spawn_egg"
+    }
+  ],
+  "result": {
+    "item": "artifacts:everlasting_beef",
+    "count": 1
+  }
+}

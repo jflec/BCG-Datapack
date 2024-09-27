@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#"
+  ],
+  "key": {
+    "E": {
+      "tag": "c:ender_pearls"
+    },
+    "#": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "fwaystones:abyss_watcher",
+    "count": 1
+  }
+}

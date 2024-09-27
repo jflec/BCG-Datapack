@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "mythicmetals:steel_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "candlelight:tool_rack",
+        "count": 3
+    }
+}

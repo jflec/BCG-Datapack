@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " P ",
+        "PNP",
+        " PG"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "G": {
+            "item": "create:super_glue"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "cobblemon:ability_patch"
+    }
+}

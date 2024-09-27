@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cec",
+    "lbl",
+    "cdc"
+  ],
+  "key": {
+    "e": {
+      "tag":"c:ender_pearls"
+    },
+    "b": {
+      "item": "minecraft:book"
+    },
+    "l": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "c": {
+      "item": "things:gleaming_compound"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "things:displacement_tome"
+  }
+}

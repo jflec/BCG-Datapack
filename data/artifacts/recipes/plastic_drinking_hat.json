@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "J J",
+    "SES",
+    "   "
+  ],
+  "key": {
+    "E": {
+      "item": "convenientdecor:orange_rain_hat"
+    },
+    "S": {
+      "item": "createaddition:straw"
+    },
+    "J": {
+      "item": "herbalbrews:jug"
+    }
+  },
+  "result": {
+    "item": "artifacts:plastic_drinking_hat",
+    "count": 1
+  }
+}

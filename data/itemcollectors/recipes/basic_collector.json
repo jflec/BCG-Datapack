@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ender_pearls"
+    },
+    "B": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "itemcollectors:basic_collector"
+  }
+}

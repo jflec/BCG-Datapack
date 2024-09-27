@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ender_pearl",
+    "endrem:black_eye",
+    "endrem:cold_eye",
+    "endrem:corrupted_eye",
+    "endrem:lost_eye",
+    "endrem:nether_eye",
+    "endrem:old_eye",
+    "endrem:rogue_eye",
+    "endrem:cursed_eye",
+    "endrem:evil_eye",
+    "endrem:guardian_eye",
+    "endrem:magical_eye",
+    "endrem:wither_eye",
+    "endrem:witch_eye",
+    "endrem:undead_eye",
+    "endrem:exotic_eye",
+    "endrem:cryptic_eye",
+    "endermanoverhaul:corrupted_pearl",
+    "endermanoverhaul:soul_pearl",
+    "endermanoverhaul:ancient_pearl",
+    "endermanoverhaul:bubble_pearl",
+    "endermanoverhaul:summoner_pearl",
+    "endermanoverhaul:icy_pearl",
+    "endermanoverhaul:crimson_pearl",
+    "endermanoverhaul:warped_pearl"
+  ]
+}

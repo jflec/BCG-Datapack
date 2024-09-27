@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "IEI",
+    "SCS"
+  ],
+  "key": {
+    "G": {
+      "item": "supplementaries:crystal_display"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
+    "E": {
+      "item": "createaddition:electrum_ingot"
+    }
+  },
+  "result": {
+    "item": "cobblemon:pc"
+  }
+}

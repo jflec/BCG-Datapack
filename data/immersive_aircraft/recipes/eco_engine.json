@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NEN",
+    "RRR"
+  ],
+  "key": {
+    "R": [
+      {
+        "item": "minecraft:brick"
+      }
+    ],
+    "N": [
+      {
+        "item": "mythicmetals:prometheum_ingot"
+      }
+    ],
+    "E": [
+      {
+        "item": "immersive_aircraft:engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:eco_engine"
+  }
+}
+

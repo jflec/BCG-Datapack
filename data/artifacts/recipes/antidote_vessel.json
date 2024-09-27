@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "HEH",
+    " J "
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "E": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "J": {
+      "item": "bakery:jar"
+    }
+  },
+  "result": {
+    "item": "artifacts:antidote_vessel",
+    "count": 1
+  }
+}

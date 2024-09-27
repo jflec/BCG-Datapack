@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RQR",
+    "LQL",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "mythicmetals:quadrillum_ingot"
+    },
+    "L": {
+      "item": "minecraft:lime_stained_glass"
+    },
+    "R": {
+      "tag": "c:ropes"
+    }
+  },
+  "result": {
+    "item": "artifacts:night_vision_goggles",
+    "count": 1
+  }
+}

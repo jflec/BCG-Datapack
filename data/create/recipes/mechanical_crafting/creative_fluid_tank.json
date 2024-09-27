@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "U": {
+      "item": "mythicmetals:unobtainium"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "A": {
+      "item": "mythicmetals:aquarium_block"
+    },
+    "F": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "pattern": [
+    " NUN ",
+    "NUFUN",
+    "UFAFU",
+    "NUFUN",
+    " NUN "
+  ],
+  "result": {
+    "count": 1,
+    "item": "create:creative_fluid_tank"
+  }
+}

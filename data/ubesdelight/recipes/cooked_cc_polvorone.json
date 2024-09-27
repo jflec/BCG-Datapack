@@ -1,0 +1,16 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"item": "ubesdelight:raw_polvorone_cc"
+		}
+	],
+	"tool": {
+		"item": "bakery:rolling_pin"
+	},
+	"result": [
+		{
+			"item": "ubesdelight:polvorone_cc"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "PBP",
+        "PBP"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:copper_ingot"
+        },
+        "B": {
+            "tag": "minecraft:stone_crafting_materials"
+        },
+         "P": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "automobility:auto_mechanic_table",
+        "count": 1
+    }
+}

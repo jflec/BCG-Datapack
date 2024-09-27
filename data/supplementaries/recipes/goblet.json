@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 0",
+    "010",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "mythicmetals:silver_nugget"
+    },
+    "1": {
+      "item": "mythicmetals:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "supplementaries:goblet",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "goblet"
+    }
+  ]
+}

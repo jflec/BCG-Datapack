@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTO",
+    "GGG",
+    "BBS"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:green_terracotta"
+    },
+    "O": {
+      "item": "minecraft:orange_terracotta"
+    },
+    "B": {
+      "item": "minecraft:blue_terracotta"
+    },
+    "S": {
+      "item": "createaddition:straw"
+    },
+    "G": {
+      "tag": "c:silica_glass"
+    }
+  },
+  "result": {
+    "item": "artifacts:snorkel",
+    "count": 1
+  }
+}

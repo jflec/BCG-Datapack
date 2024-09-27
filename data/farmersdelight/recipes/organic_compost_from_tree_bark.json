@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "farmersdelight:straw"
+    },
+    {
+      "item": "farmersdelight:straw"
+    },
+    {
+      "tag": "c:organic_dust"
+    },
+    {
+      "tag": "c:organic_dust"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:organic_compost"
+  }
+}

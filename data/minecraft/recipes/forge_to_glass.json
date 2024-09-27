@@ -1,0 +1,20 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "minecraft:smelts_to_glass"
+    }
+  ],
+  "output": {
+    "id": "minecraft:glass",
+    "count": 2
+  },
+  "overrides": {
+    "3+": {
+      "id": "minecraft:glass",
+      "count": 3
+    }
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 10
+}

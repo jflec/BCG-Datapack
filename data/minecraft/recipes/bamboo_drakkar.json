@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "121",
+    "343",
+    "555"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "smallships:sail"
+    },
+    "3": {
+      "item": "minecraft:chest"
+    },
+    "4": {
+      "item": "minecraft:lead"
+    },
+    "5": {
+      "item": "minecraft:bamboo_raft"
+    }
+  },
+  "result": {
+    "item": "smallships:bamboo_drakkar",
+    "count": 1
+  }
+}

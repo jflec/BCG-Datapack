@@ -1,0 +1,9 @@
+{
+  "values": [
+    "supplementaries:flax_seeds",
+    {
+      "id": "#c:seeds",
+      "required": false
+    }
+  ]
+}

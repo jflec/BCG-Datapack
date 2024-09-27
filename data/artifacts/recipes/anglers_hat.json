@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RLT",
+    "L L",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "R": {
+      "item": "gofish:golden_fish"
+    },
+    "T": {
+      "item": "gofish:simple_lure"
+    }
+  },
+  "result": {
+    "item": "artifacts:anglers_hat",
+    "count": 1
+  }
+}

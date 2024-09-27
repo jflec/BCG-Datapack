@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "supplementaries:rope",
+    "bbb:rope",
+    "beautify:rope",
+    "brewery:rope",
+    "farmersdelight:rope"
+  ]
+}

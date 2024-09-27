@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SLS",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "simplehats:villagernose"
+    },
+    "L": {
+      "item": "minecraft:leather_helmet"
+    },
+    "S": {
+      "item": "farmersdelight:straw"
+    }
+  },
+  "result": {
+    "item": "artifacts:villager_hat",
+    "count": 1
+  }
+}

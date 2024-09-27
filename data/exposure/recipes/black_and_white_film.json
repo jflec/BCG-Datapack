@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "tag": "c:organic_dust"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "I": {
+      "item": "mythicmetals:tin_ingot"
+    },
+    "K": {
+      "item": "minecraft:dried_kelp"
+    },
+    "N": {
+      "item": "mythicmetals:tin_nugget"
+    }
+  },
+  "pattern": [
+    "NBB",
+    "IGG",
+    "IKK"
+  ],
+  "result": {
+    "item": "exposure:black_and_white_film"
+  },
+  "show_notification": true
+}

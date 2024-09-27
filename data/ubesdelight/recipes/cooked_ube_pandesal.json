@@ -1,0 +1,16 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"item": "ubesdelight:pandesal_ube_raw"
+		}
+	],
+	"tool": {
+		"item": "bakery:rolling_pin"
+	},
+	"result": [
+		{
+			"item": "ubesdelight:pandesal_ube"
+		}
+	]
+}

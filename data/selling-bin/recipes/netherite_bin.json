@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "selling-bin:diamond_bin"
+    }
+  ],
+  "result": {
+    "item": "selling-bin:netherite_bin",
+    "count": 1
+  }
+}

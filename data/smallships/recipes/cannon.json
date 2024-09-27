@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    "III",
+    " LL"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "I": {
+      "item": "mythicmetals:bronze_block"
+    }
+  },
+  "result": {
+    "item": "smallships:cannon"
+  }
+}

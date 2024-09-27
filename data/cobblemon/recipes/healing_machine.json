@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CGC",
+        "IRI",
+        "IDI"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:copper_ingot"
+        },
+        "I": {
+            "item": "create:iron_sheet"
+        },
+        "G": {
+            "item": "mythicmetals:prometheum_ingot"
+        },
+        "D": {
+            "item": "createaddition:electrum_ingot"
+        },
+        "R": {
+            "item": "cobblemon:revive"
+        }
+    },
+    "result": {
+        "item": "cobblemon:healing_machine"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ERE",
+    "RRR"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "R": {
+      "item": "simplehats:hatscraps_rare"
+    }
+  },
+  "result": {
+    "item": "artifacts:superstitious_hat",
+    "count": 1
+  }
+}

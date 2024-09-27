@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "L L",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:saddle"
+    }
+  },
+  "result": {
+    "item": "artifacts:cowboy_hat",
+    "count": 1
+  }
+}

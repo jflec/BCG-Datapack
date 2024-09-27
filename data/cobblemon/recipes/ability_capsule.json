@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SWA",
+        "AAA"
+    ],
+    "key": {
+        "S": {
+            "item": "mythicmetals:starrite"
+        },
+        "W": {
+            "item": "cobblemon:serious_mint"
+        },
+        "A": {
+            "item": "mythicmetals:aquarium_ingot"
+        }
+    },
+    "result": {
+        "item": "cobblemon:ability_capsule"
+    }
+}

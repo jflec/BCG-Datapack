@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "ACA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "mythicmetals:carmot_ingot"
+    },
+    "C": {
+      "item": "mythicmetals:carmot_stone"
+    }
+  },
+  "result": {
+    "item": "artifacts:crystal_heart",
+    "count": 1
+  }
+}

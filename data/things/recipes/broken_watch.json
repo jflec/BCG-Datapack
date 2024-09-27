@@ -1,0 +1,19 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:leather"
+		},
+		{
+			"item": "minecraft:clock"
+		},
+		{
+			"item": "things:gleaming_compound"
+		}
+	],
+	"results": [
+		{
+			"item": "things:broken_watch"
+		}
+	]
+}

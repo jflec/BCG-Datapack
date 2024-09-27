@@ -1,0 +1,18 @@
+{
+    "type": "bakery:crafting_bowl",
+    "ingredients": [
+        {
+            "tag": "c:dough"
+        },
+        {
+            "tag": "c:tea_ingredients"
+        },
+        {
+            "tag": "bakery:bread"
+        }
+    ],
+    "result": {
+        "item": "ubesdelight:pandesal_raw",
+        "count": 1
+    }
+}

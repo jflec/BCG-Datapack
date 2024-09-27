@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "alloy_forgery:bricks_forge_controller",
+    "alloy_forgery:stone_bricks_forge_controller",
+    "alloy_forgery:deepslate_bricks_forge_controller"
+  ]
+}

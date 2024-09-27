@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "LRL",
+    " L "
+  ],
+  "key": {
+    "L": {
+      "item": "farmersdelight:onion"
+    },
+    "R": {
+      "item": "candlelight:gold_ring"
+    }
+  },
+  "result": {
+    "item": "artifacts:onion_ring",
+    "count": 1
+  }
+}
