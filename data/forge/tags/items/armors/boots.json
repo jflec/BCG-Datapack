@@ -1,6 +1,10 @@
 {
   "values": [
-    "create:copper_diving_boots",
-    "create:netherite_diving_boots"
+    "minecraft:leather_boots",
+    "minecraft:chainmail_boots",
+    "minecraft:iron_boots",
+    "minecraft:golden_boots",
+    "minecraft:diamond_boots",
+    "minecraft:netherite_boots"
   ]
 }
