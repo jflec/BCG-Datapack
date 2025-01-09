@@ -1,6 +1,8 @@
 {
   "values": [
-    "#forge:nuggets/iron",
-    "#forge:nuggets/gold"
+    "create:copper_nugget",
+    "create:zinc_nugget",
+    "create:brass_nugget",
+    "create:experience_nugget"
   ]
 }
